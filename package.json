@@ -1,0 +1,14 @@
+{
+  "name": "mrcbot2.0",
+  "version": "1.0.0",
+  "description": "A robot mod bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "Ethan from discord",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
